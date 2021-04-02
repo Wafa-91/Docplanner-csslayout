@@ -1,0 +1,255 @@
+.logodoc
+{
+    width: 300px;
+    height: 30px;
+}
+
+.barnav
+{
+    display: flex;
+    box-shadow: 0px 2px rgba(39, 38, 38, 0.075);
+    padding: 0px 170px
+}
+header
+{
+    position: fixed;
+    width:100%;
+    background-color: white;
+    top:0;
+}
+.barnav ul
+{
+    
+    width: 100%;
+    display: flex;
+    justify-content: flex-end;
+    margin-top: 10px;
+}
+.barnav ul li 
+{
+list-style-type: none;
+}
+
+.barnav ul li a
+{
+    text-decoration: none;
+    padding-left: 30px;
+    color: rgba(105, 105, 105, 0.555);
+}
+#about
+{
+    color:#05dabd;
+}
+.carrer:hover
+{
+color:#05dabd;
+}
+.section2
+{
+margin-top: 50px;
+
+padding: 0px 170px
+}
+
+.pargsection2
+{
+    display: flex;
+
+   
+}
+#p2section2
+{
+    margin-left: 20px;
+}
+
+.hsection2
+{
+  display: flex;
+  justify-content: center;
+    
+}
+.imgsection2
+{
+    display: flex;
+    justify-content: center;
+    color:#05dabd;  
+}
+
+.section3
+{
+    margin: 30px 170px;
+    display: flex;
+    justify-content: space-between;
+}
+.fordiv
+{
+    padding: 25px;
+    height: 250px;
+    width: 230px;
+    color: white;
+    border-radius: 10px;
+   
+
+}
+#forpatient,.listcontry1
+{
+    background-color:#05dabd;
+}
+#fordoctr,.listcontry2
+{
+    background-color: rgb(43, 142, 199);
+}
+#forclinc,.listcontry3
+{
+background-color: rgba(0, 0, 0, 0.918);
+}
+.listcontry
+{border: none;
+   outline: none; 
+   color: white; 
+   text-decoration: underline;
+}
+
+
+.section4
+{
+    margin-top: 50px;
+    padding: 0px 170px;
+    display:flex;
+    background-color: #00ffff17;
+}
+.div1sect4
+{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+.pgrdiv1sect4
+{
+    width: 50%;
+   
+  
+}
+.div1sect4 h3
+{
+    color:#05dabd;
+}
+
+.car1
+{
+    width: 200px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    padding: 15px;
+    margin: 10px;
+    border-radius: 10px;
+    background-color: white;
+   
+}
+.car1 h3
+{
+ color:#05dabd;   
+}
+.car1 p
+{
+    font-size: small;
+}
+.secti3divcaree
+{   
+    display:flex;
+    flex-wrap: wrap;
+   
+    /* justify-content: space-between; */
+   
+    
+}
+.theword
+{
+    width: 800px;
+    padding-top: 50px;
+}
+.theword h1{
+    color:#05dabd; ;
+}
+#car11
+{
+    margin-top:30px;
+}
+#car13
+{
+    margin-top:30px;  
+}
+
+.buttonsct4
+{
+   
+   float: right;
+}
+.warss
+{
+    padding: 20px;
+
+}
+.warss a
+{
+    text-decoration: none;
+}
+.sectimgville
+{
+    width: 300px;
+    margin-top: 30px;
+   
+}
+.imgvil
+{
+    width: 300px;
+    border-radius: 5px;
+    
+}
+.div2sect4
+{
+display: flex;
+flex-wrap: wrap;
+justify-content: space-between;
+
+}
+.but4
+{
+    width: 120px;
+    height: 25px;
+    background-color: royalblue;
+    color: white;
+    font-size: 15px;
+    border: none;
+   outline: none; 
+   border-radius: 5px;
+}
+.section5 
+{
+  
+  margin-top: 50px;
+    padding:30px 170px;
+    display: flex;
+   flex-direction: column;
+   align-items: center;
+   box-shadow: 0px 2px rgba(39, 38, 38, 0.075);
+   ;
+}
+
+
+.section5  button
+{
+    background-color: rgb(17, 0, 255);
+    color:white;
+    border: none;
+    outline: none; 
+    width: 200px;
+    height: 50px;
+    border-radius: 5px;
+}
+footer p
+{
+    text-align: center;
+    font-size: small;
+}
